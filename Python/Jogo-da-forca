@@ -46,3 +46,4 @@ while acertou is False:  # Enquanto o utilizador não acertou a palavra
             print(f'Você acertou a palavra, era {forca}!')
             print(f'Você acertou com {tentativa} tentativa(s)!')
             acertou = True
+            
